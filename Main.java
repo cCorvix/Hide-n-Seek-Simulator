@@ -53,7 +53,7 @@ public class Main {
   
 } else if ("credits".equalsIgnoreCase(input)) {
 
-  IO.println("\nCoded by Quinn Coffee and Declan Dacey. Coded on September 28th, 2026(9/28/2026). Hide 'n Seek Simulator V1.0.0. Programming language: JAVA 21. For additional information, please refer to this link: ");
+  IO.println("\nCoded by Quinn Coffee and Declan Dacey. Coded on September 28th, 2026(9/28/2026). Hide 'n Seek Simulator V1.0.0. Programming language: JAVA 21. For additional information, please refer to this link: https://docs.google.com/document/d/1yNbFeywhzPnQXgdiycp4cWu2MNHAe14u4Sq5nJkj8D4/edit?tab=t.0");
 
 }
 
